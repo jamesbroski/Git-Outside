@@ -19,6 +19,7 @@ This project is licensed under the MIT license.
 ## Description
 
 This application is called Git Outside. This allows you to add, read and post reviews about your most favorite or least favorite camping location as well as from others. The navbar allows you to view all states, navigate to the login page and to write a review.
+http://git-outside.herokuapp.com/
 
 ## User Instructions
 
